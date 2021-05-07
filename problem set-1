@@ -1,0 +1,38 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Problem set-1 \n",
+    "1. From the refrence book solve 2.1, 2.5 and 2.7 (Digital Image Processing, Rafael C. Gonzalez - Richard E. Woods)\n",
+    "2. Use imag1.tiff and imag2.tiff files to create following results in MATLAB. \n",
+    "<img src=\"Desktop/result1.png\">\n",
+    "3. Change the imag3.tiff light intensity using following transformation and show the result. \n",
+    "<img src=\"Desktop/result2.png\">\n",
+    "4. What is the diffrence between various image formats? what is the difference between image and imshow commands?"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
