@@ -4,4 +4,4 @@
 <img width="482" alt="result1" src="https://user-images.githubusercontent.com/54392924/117450360-5dc26000-af56-11eb-952a-9ef9ad27d790.png">
 3. Change the imag3.tiff light intensity using following transformation and show the result. 
 <img width="652" alt="result2" src="https://user-images.githubusercontent.com/54392924/117450369-62871400-af56-11eb-967e-3b28db0835f8.png">
-4. What is the diffrence between various image formats? what is the difference between image and imshow commands?
+4. What is the difference between various image formats? what is the difference between image and imshow commands?
