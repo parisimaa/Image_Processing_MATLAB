@@ -18,7 +18,7 @@ Use the car image <br>
    * Variance of intensity
 3. Try holding each RGB channel at a time and reset the two other channels to zero. Show the results. Which color channels has the most information of the image in this case? Which color will appear black or white and why? 
 4. Now invert the value of each color channel(Hint: Maximum intensity - pixel's intensity) and show the results. 
-5. Elminate one ONLY one color channel by assigning zero to it each time. Eliminating which color channel does the least damage to the image?
+5. Elminate ONLY one color channel by assigning zero to it each time. Eliminating which color channel does the least damage to the image?
 6. According to part-2 if we want to use only 4,3,2 bits ( totally 9 bits) to depict different color channels, how would you allocate these bits to each color channel in order to have the least damage to the image's information?
 7. Find the components' value for CIE XYZ, RGB image. 
 8. Repeat part-6 for this system. 
