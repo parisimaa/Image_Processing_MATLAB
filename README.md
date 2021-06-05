@@ -4,7 +4,7 @@ Each folder consists some problems covering different fundamental concepts in Im
 Also, you may want to learn more about the theories by reading this refrence: Digital Image Processing, Rafael C. Gonzalez - Richard E. Woods <br>
 ### Problem set 1: 
 Use imag1.tiff and imag2.tiff files to create following results in MATLAB. 
-
+<img width="482" alt="result1" src="https://user-images.githubusercontent.com/54392924/117450360-5dc26000-af56-11eb-952a-9ef9ad27d790.png">
 
 ### Problem set 2: 
 Change the imag3.tiff light intensity using following transformation and show the result. 
