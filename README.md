@@ -40,7 +40,21 @@ Use the tree image <br>
 3. Is the Rate Distortion function an ascending function of D? Why?
 
 
-### Problem set 6:
+### Problem set 6: Discrete Fourier Transform
+Consider the image of man and owl. Take 2D fourier transform images. <br>
+1. Find the Phase and Absolute values of the man's transformed image. (in order to have a better resolution of Absolute value result, take a log from it and make sure that it is not zero inside the log)
+2. Now apply the following changes to the original image and report each time how absolute and phase values change.
+   * Do "circular shift" on image.
+   * Rotate the image 90 degrees clockwise.
+   * Double the image in any of the directions.
+3. Now do the following for the phase and absolute of the image and report the changes made to the original image.
+   * Shift the phase.
+   * Rotate the phase 90 degrees clockwise.
+   * Zero the amount of phase at any point.
+   * Shift the absolute.
+   * Rotate the absolute (like phase).
+   * Halve the absolute value anywhere.
+4. Now match the phase of one image with the absolute of another image each time. Which image do you think is closer to the result?
 
 ## Contact:
 parisima.abdali@gmail.com
