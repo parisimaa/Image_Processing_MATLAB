@@ -29,12 +29,17 @@ Use the tree image <br>
 2. Quarter the number of pixels in the image in the vertical direction. Show image.
 3. Halve the number of pixels in the image in both directions. Show image. Which image do you think is most damaged?
 4. Now resize the images. To do so, insert a bar of pixels between two row or column or both (it depends on the image) and use one of below methods until you reach the image original size:
-   * The intensity of each missing pixel is the intensity value of the neighbor to the top, left or top-left (each of which was available in image). **HINT IN FOLDER**
-   * The intensity of each missing pixel is the average of the two nearest pixel to the missing one (If there is only one, consider the value of both equal). **HINT IN FOLDER**
+   * The intensity of each missing pixel is the intensity value of the neighbor to the top, left or top-left (each of which was available in image). **HINT IN THE FOLDER**
+   * The intensity of each missing pixel is the average of the two nearest pixel to the missing one (If there is only one, consider the value of both equal). **HINT IN THE FOLDER**
    * For each image obtained, calculate the SNR PSNR and MSE between the original image and the created image. Intuitively, which of the above two methods do you think works best for each image?
 
 
-### Problem set 5:
+### Problem set 5: Image Information
+1. Calculate the antropy for the histogram of images: flower and baboon
+2. When the antropy will be maximum? Why?
+3. Is the Rate Distortion function an ascending function of D? Why?
+
+
 ### Problem set 6:
 
 ## Contact:
